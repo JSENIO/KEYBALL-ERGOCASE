@@ -7,6 +7,7 @@
 Received Keyball61 from Aliexpress
 
 ![Aliexpress Screenshot](PICTURES/2026-08-08-210809_hyprshot.png)
+[Link to listing](https://www.aliexpress.us/item/3256809119391153.html)
 
 ![PCB1](PICTURES/20260724_222208.jpg) 
 ![PCB2](PICTURES/20260724_222237.jpg)
