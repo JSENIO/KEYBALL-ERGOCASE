@@ -8,6 +8,9 @@ Received Keyball61 from Aliexpress
 
 ![Aliexpress Screenshot](PICTURES/2026-08-08-210809_hyprshot.png)
 
+![PCB1](PICTURES/20260724_222208.jpg) 
+![PCB2](PICTURES/20260724_222237.jpg)
+
 Gateron Baby Kangaroos and XDA keycaps
 ![Initial setup](PICTURES/20260724_193851.jpg)
 
