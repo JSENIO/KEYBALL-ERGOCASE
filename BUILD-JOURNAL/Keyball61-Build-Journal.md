@@ -90,3 +90,13 @@ Chocs came in
 - fix screen cover piece, integrate it into the case itself instead of the standoffs on the board
 - add better switches for on/off and reset button
 - look into other keyball pcbs, how hard would it be to make versions for 39 and 44?
+
+
+
+### August 11, 2026
+
+![magsafe1](PICTURES/2026-08-11-214520_hyprshot.png)
+Started brainstorming how I can try new palm rest designs without printing an entirely new case...decided on a magsafe magnet in the bottom section and I'll just use the magnet stickers on the ergopads as needed.
+
+Will print this out overnight and hopefully be able to test it this week.
+![magsafe2](PICTURES/2026-08-11-214540_hyprshot.png)
